@@ -5,8 +5,6 @@ package com.cwj.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("test git ......");
-        System.out.println("test ......");
-        System.out.println("..........");
+        System.out.println("test git master01......");
     }
 }
