@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("test git hot_03----fix......");
         System.out.println("test git master02......");
         System.out.println("test git master_six......");
+        System.out.println("test git master_six_hot_fix......");
     }
 }
